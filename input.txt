@@ -40,10 +40,17 @@ root a
 
 prime a
 
+intg a;;
 intg a == 3;;
+
+Charc a;;
 Charc a == 'a';;
-String a == "String";;
-Float a == 32.21;;
+
+string a;;
+string a == "String";;
+
+float a;;
+float a == 32.21;;
 
 y == mx ++ c;;
 y == a ** b;;
@@ -72,5 +79,7 @@ eelif(a<<3)
 wwhile(5)
 
 wwhile(a>>4)
+
+func ad( intg a == 3;; flt b == 3.23;; string c == "Hello World";;)
 
 Finish

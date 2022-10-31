@@ -40,14 +40,23 @@ Root Variable
 
 Prime Variable 
 
-Variable Declared: intg a == 3;;
+Integer_type_variable Declared: intg a;;
  
-Character Declared: Charc a == 'a';;
+Integer_type_variable Declared: intg a == 3;;
  
-String Declared: String a == "String";;
+
+Character_type_variable Declared: Charc a;;
  
-Float Declared: Float a == 32.21;;
+Character_type_variable Declared: Charc a == 'a';;
  
+
+String_type_variable Declared: string a;;
+ 
+String_type_variable Declared: string a == "String";;
+ 
+
+Variable Variable End_of_Line 
+Variable Variable Asign Float End_of_Line 
 
  y == mx ++ c;;
  
@@ -84,5 +93,7 @@ While_Condition (Condition)
 
 While_Condition (Condition)
 
+
+User_defined_function Variable (Function Condition: ( intg a == 3;; flt b == 3.23;; string c == "Hello World";;))
 
 End_of_Program 
