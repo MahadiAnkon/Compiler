@@ -1,0 +1,76 @@
+Begin
+
+intg 
+a == 23
+
+flt 
+b == 23.03
+
+Charc 
+a == 'a'
+
+String
+d = "Hello"
+
+a ++ b
+a -- b
+c ** d
+c // d
+c%%d
+
+c << d
+c>>d
+c ==== d
+c <<== d
+c>>==d
+c!!>>d
+c!!<<d
+c!!==d
+
+a ++++
+a----
+
+;;
+
+a^^2
+
+write a
+
+root a
+
+prime a
+
+intg a == 3;;
+Charc a == 'a';;
+String a == "String";;
+Float a == 32.21;;
+
+y == mx ++ c;;
+y == a ** b;;
+y == a ++ 5;;
+y == 5 -- a;;
+y == 5 // 5;;
+
+////This is a single line comment
+
+//** This is
+a
+multiple line
+comment**//
+
+ffor(i==2;;i<<5;;i++++)
+
+iif(a)
+	write a
+
+eelif(a<<3)
+  write a
+
+ eelse
+	write a
+
+wwhile(5)
+
+wwhile(a>>4)
+
+Finish

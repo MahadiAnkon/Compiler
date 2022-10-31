@@ -1,0 +1,88 @@
+Start_of_Program 
+
+Integer_type 
+Variable Asign Integer 
+
+Float_type 
+Variable Asign Float 
+
+Character_type 
+Variable Asign Character 
+
+String_type 
+Variable String 
+
+Variable Add Variable 
+Variable Substruct Variable 
+Variable Multiply Variable 
+Variable Divide Variable 
+Variable Remainder Variable 
+
+Variable Less_than Variable 
+Variable Greater_than Variable 
+Variable Equal Variable 
+Variable Less_than_or_equal Variable 
+Variable Greater_than_or_equal Variable 
+Variable Not_greater_than Variable 
+Variable Not_less_than Variable 
+Variable Not_Equal Variable 
+
+Variable Increment
+Variable Decrement
+
+End_of_Line 
+
+Variable Exponent Integer 
+
+Print Variable 
+
+Root Variable 
+
+Prime Variable 
+
+Variable Declared: intg a == 3;;
+ 
+Character Declared: Charc a == 'a';;
+ 
+String Declared: String a == "String";;
+ 
+Float Declared: Float a == 32.21;;
+ 
+
+ y == mx ++ c;;
+ 
+ y == a ** b;;
+ 
+ y == a ++ 5;;
+ 
+ y == 5 -- a;;
+ 
+ y == 5 // 5;;
+ 
+
+Single Line Comment
+
+Multiple_Line_Comment_Starts
+    Multiple_Line_Comment_Ends.
+
+
+For_loop( initializationStatement; testExpression; updateStatement )
+
+If_Condition (Condition)
+
+Print Variable 
+
+Elseif_Condition (Condition)
+
+Print Variable 
+
+Else_Condition
+Print Variable 
+
+While_Condition (Condition)
+
+
+While_Condition (Condition)
+
+
+End_of_Program 
